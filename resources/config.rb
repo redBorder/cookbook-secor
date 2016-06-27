@@ -1,4 +1,4 @@
-# Cookbook Name:: cookbook-example
+# Cookbook Name:: secor
 #
 # Resource:: config
 #
